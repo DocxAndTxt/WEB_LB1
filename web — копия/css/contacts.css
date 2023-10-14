@@ -1,0 +1,31 @@
+.smaller-header {
+    font-size: 18px; /* Устанавливает размер шрифта (например, 18 пикселей) */
+  }
+
+
+
+
+/* Стили для контейнера "Связь с нами" */
+.contact-us {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Стили для абзацев с контактной информацией */
+.contact-us p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Стили для ссылок */
+.contact-us a {
+    color: #007bff; /* Цвет ссылок (синий) */
+    text-decoration: none;
+}
+
+.contact-us a:hover {
+    text-decoration: underline; /* Подчеркивание ссылок при наведении */
+}
